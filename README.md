@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @faith-ogun
 - 👀 I’m interested in bioinformatics and machine learning, with focus on oncology.
 - 🌱 I’m currently improving my coding skills and am working on developing my GitHub repositories and projects.
-- 💞️ I’m looking to work on an internship that would focus on bioinformatics with programs like R, Bash, Perl and Python.
 - 📫 How to reach me;
 - 📧 faithogun12@gmail.com or faith.ogundimu2@mail.dcu.ie for my college email
 - Linkedin: www.linkedin.com/in/faith-ogundimu-3895421b9

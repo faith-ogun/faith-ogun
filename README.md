@@ -6,8 +6,8 @@
   - 📧 **faithogun12@gmail.com** or **faith.ogundimu2@mail.dcu.ie**  
   - 🔗 [LinkedIn: www.linkedin.com/in/faith-ogundimu-3895421b9](https://www.linkedin.com/in/faith-ogundimu-3895421b9)  
 
-- 🎨 I also have experience in multimedia marketing and graphic design.  
-I founded and ran a successful multimedia business **PRODIGY Creative** completing over 500 projects for more than 300 clients worldwide. I specialized in creating logos, packaging, business stationery, and promotional materials in both English and French.  
+- 🎨 I also have experience in multimedia marketing and graphic design.
+  I founded and ran a successful multimedia business **PRODIGY Creative** completing over 500 projects for more than 300 clients worldwide. I specialized in creating logos, packaging, business stationery, and promotional materials in both English and French.  
 
 While I’m now transitioning fully into bioinformatics and cancer research, my background in design has given me a unique perspective in visualizing complex data and presenting research findings.
 

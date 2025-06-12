@@ -57,8 +57,12 @@
   </tr>
 </table>
 
-- 🎨 I also have experience in multimedia marketing and graphic design.  
-  I founded and ran a successful multimedia business **PRODIGY Creative** completing over 500 projects for more than 300 clients worldwide. I specialized in creating logos, packaging, business stationery, and promotional materials in both English and French.  While I’m fully focused on bioinformatics and cancer research, my background in design has given me a unique perspective in visualizing complex data and presenting research findings.
+### 🎨 Design Background & Visual Communication
+
+I also have experience in multimedia marketing and graphic design.  
+I founded and ran a successful multimedia business **PRODIGY Creative**, completing over 500 projects for more than 300 clients worldwide. I specialized in creating logos, packaging, business stationery, and promotional materials in both English and French.  
+
+While I’m fully focused on bioinformatics and cancer research, my background in design has given me a unique perspective in visualizing complex data and presenting research findings.
 
 ### **Design Tools**
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat)

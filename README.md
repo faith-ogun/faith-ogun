@@ -17,6 +17,7 @@
 
 - 👋 Hi, I'm Faith! I'm a cancer bioinformatician and machine learning data scientist.
 - 🎓 BSc. Genetics and Cell Biology @ Dublin City University
+- 🧠 IRC GOIPG PhD Candidate | Cancer Genomics & Machine Learning Research @ RCSI (Furney Group)
 - 🎯 Discover. Decode. Deliver. - Driving Precision Cancer Treatment with Artificial Intelligence and Bioinformatics.
 
 ## ✅ Languages and Frameworks

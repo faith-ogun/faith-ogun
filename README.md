@@ -1,28 +1,87 @@
-### 👋 Hi, I’m @faith-ogun  
+<div align="center">
 
-- 👀 I’m interested in bioinformatics and machine learning, with a focus on oncology.  
-- 🌱 I’m currently improving my coding skills and working on developing my GitHub repositories and projects.  
-- 📫 How to reach me:  
-  - 📧 **faithogun12@gmail.com** or **faith.ogundimu2@mail.dcu.ie**  
-  - 🔗 [LinkedIn: www.linkedin.com/in/faith-ogundimu-3895421b9](https://www.linkedin.com/in/faith-ogundimu-3895421b9)  
+# Hi there, I'm Faith 👋  
+## First Class Honours (1.1), Ranked 2nd | 2023 Histopathology Intern @ RVEEH | 2024 Analytical Intern @ APC | 2024 Research Intern @ Virtuome | 2025 Visiting Student Researcher @ RCSI | 2025 Breakthrough Summer Scholar @ UCD | IRC PhD Candidate
 
-- 🎨 I also have experience in multimedia marketing and graphic design.
-  I founded and ran a successful multimedia business **PRODIGY Creative** completing over 500 projects for more than 300 clients worldwide. I specialized in creating logos, packaging, business stationery, and promotional materials in both English and French.  
+</div>
 
-While I’m now transitioning fully into bioinformatics and cancer research, my background in design has given me a unique perspective in visualizing complex data and presenting research findings.
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faith-ogun&layout=compact&theme=tokyonight" 
+    alt="Top Languages" 
+    height="150"
+  />
+</p>
 
----
+## ➡️ About Me
 
-## 🛠️ Technologies & Skills
+- 👋 Hi, I'm Faith! I'm a cancer bioinformatician and machine learning data scientist.
+- 🎓 BSc. Genetics and Cell Biology @ Dublin City University
+- 🎯 Discover. Decode. Deliver. - Driving Precision Cancer Treatment with Artificial Intelligence and Bioinformatics.
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
-![Perl](https://img.shields.io/badge/-Perl-39457E?logo=perl&logoColor=white&style=flat)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat)
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat)
+## ✅ Languages and Frameworks
+
+<table>
+  <tr>
+    <td><strong>Languages & Scripting</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=r&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25.svg?style=flat-square&logo=gnubash&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Perl-39457E.svg?style=flat-square&logo=perl&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Markdown-000000.svg?style=flat-square&logo=markdown&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LaTeX-008080.svg?style=flat-square&logo=latex&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Dev Tools & Environments</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Data Science & ML Libraries</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+- 🎨 I also have experience in multimedia marketing and graphic design.  
+  I founded and ran a successful multimedia business **PRODIGY Creative** completing over 500 projects for more than 300 clients worldwide. I specialized in creating logos, packaging, business stationery, and promotional materials in both English and French.  While I’m fully focused on bioinformatics and cancer research, my background in design has given me a unique perspective in visualizing complex data and presenting research findings.
 
 ### **Design Tools**
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
+
+## 🤝 Connect with me!!
+
+🔗 [LinkedIn: www.linkedin.com/in/faith-ogundimu-3895421b9](https://www.linkedin.com/in/faith-ogundimu-3895421b9)
+
+## Favorite Pokémon
+
+It's Greninja 🐸🥷 – (always looking to trade some cool cards!)
+
+### 🃏 Favourite Cards in My Collection
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/faith-ogun/faith-ogun/main/assets/cards/groudon.jpg" width="220" alt="Groudon card"/>
+  <img src="https://raw.githubusercontent.com/faith-ogun/faith-ogun/main/assets/cards/magikarp.jpg" width="220" alt="Magikarp card"/>
+  <img src="https://raw.githubusercontent.com/faith-ogun/faith-ogun/main/assets/cards/sawsbuck.jpg" width="220" alt="Sawsbuck card"/>
+</p>
+
+### 🎮 My Highest Rank – League of Legends: Wild Rift (Lux Main - Supp 🤣)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/faith-ogun/faith-ogun/main/assets/lol-wr/lux-rank.PNG" width="500" alt="Cosmic Lux Rank"/>
+</p>

@@ -72,6 +72,7 @@ While I’m fully focused on bioinformatics and cancer research, my background i
 ## 🤝 Connect with me!!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faith-ogundimu-3895421b9)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/faith-ogun?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 ## Favorite Pokémon
 

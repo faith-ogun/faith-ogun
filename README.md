@@ -56,7 +56,6 @@
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
     </td>
   </tr>
-</table>
 
 <tr>
   <td><strong>Web Apps & Dashboards</strong></td>
@@ -64,6 +63,7 @@
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
   </td>
 </tr>
+</table>
 
 ### 🎨 Design Background & Visual Communication
 

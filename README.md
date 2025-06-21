@@ -58,6 +58,13 @@
   </tr>
 </table>
 
+<tr>
+  <td><strong>Web Apps & Dashboards</strong></td>
+  <td>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  </td>
+</tr>
+
 ### 🎨 Design Background & Visual Communication
 
 I also have experience in multimedia marketing and graphic design.  

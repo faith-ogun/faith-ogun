@@ -93,7 +93,7 @@ It's Greninja 🐸🥷 – (always looking to trade some cool cards!)
   <img src="https://raw.githubusercontent.com/faith-ogun/faith-ogun/main/assets/cards/sawsbuck.jpg" width="220" alt="Sawsbuck card"/>
 </p>
 
-### 🎮 My Highest Rank – League of Legends: Wild Rift (Lux Main - Supp 🤣)
+### 🎮 My Highest Rank – League of Legends: Wild Rift
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/faith-ogun/faith-ogun/main/assets/lol-wr/lux-rank.PNG" width="500" alt="Cosmic Lux Rank"/>

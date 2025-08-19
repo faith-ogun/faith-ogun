@@ -96,5 +96,5 @@ It's Greninja 🐸🥷 – (always looking to trade some cool cards!)
 ### 🎮 My Highest Rank – League of Legends: Wild Rift
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faith-ogun/faith-ogun/main/assets/lol-wr/lux-rank.PNG" width="500" alt="Cosmic Lux Rank"/>
+  <img src="https://raw.githubusercontent.com/faith-ogun/faith-ogun/main/assets/lol-wr/zyra-rank.PNG" width="500" alt="Zyra Rank"/>
 </p>

@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Faith 👋  
-## First Class Honours (1.1), Ranked 2nd | 2023 Histopathology Intern @ RVEEH | 2024 Analytical Intern @ APC | 2024 Research Intern @ Virtuome | 2025 Visiting Student Researcher @ RCSI | 2025 Breakthrough Summer Scholar @ UCD | IRC PhD Candidate
+## Research Ireland Postgraduate Scholar @ RCSI (Genomic Oncology Research Group) | Cancer Bioinformatics & AI | Mapping Non-Coding Drivers in Breast Cancer
 
 </div>
 
@@ -17,8 +17,8 @@
 
 - 👋 Hi, I'm Faith! I'm a cancer bioinformatician and machine learning data scientist.
 - 🎓 BSc. Genetics and Cell Biology @ Dublin City University
-- 🧠 IRC GOIPG PhD Candidate | Cancer Genomics & Machine Learning Research @ RCSI (Furney Group)
-- 🎯 Discover. Decode. Deliver. - Driving Precision Cancer Treatment with Artificial Intelligence and Bioinformatics.
+- 🧠 Research Ireland Postgraduate Scholar | Cancer Genomics, Epigenetics & Machine Learning Research @ RCSI (Genomics Oncology Research Group)
+- 🎯 Discover. Decode. Deliver. - Driving Precision Cancer Discovery with Artificial Intelligence and Bioinformatics.
 
 ## ✅ Languages and Frameworks
 
@@ -76,7 +76,7 @@ While I’m fully focused on bioinformatics and cancer research, my background i
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat)
 
-## 🤝 Connect with me!!
+## 🤝 Connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faith-ogundimu-3895421b9)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/faith-ogun?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)

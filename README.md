@@ -15,8 +15,7 @@
 
 ## ➡️ About Me
 
-- 👋 Hi, I'm Faith! I'm a cancer bioinformatician and machine learning data scientist.
-- 🎓 BSc. Genetics and Cell Biology @ Dublin City University
+- 🎓 BSc. Genetics and Cell Biology @ Dublin City University, Ranked 2nd | Salutatorian & Dean's Honours List
 - 🧠 Research Ireland Postgraduate Scholar | Cancer Genomics, Epigenetics & Machine Learning Research @ RCSI (Genomics Oncology Research Group)
 - 🎯 Discover. Decode. Deliver. - Driving Precision Cancer Discovery with Artificial Intelligence and Bioinformatics.
 

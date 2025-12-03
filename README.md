@@ -5,14 +5,6 @@
 
 </div>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=faith-ogun&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-    height="150"
-  />
-</p>
-
 ## ➡️ About Me
 
 - 🎓 BSc. Genetics and Cell Biology @ Dublin City University, Ranked 2nd | Salutatorian & Dean's Honours List

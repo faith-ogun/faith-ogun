@@ -8,7 +8,7 @@
 ## ➡️ About Me
 
 - 🎓 BSc. Genetics and Cell Biology @ Dublin City University, Ranked 2nd | Salutatorian & Dean's Honours List
-- 🧠 Research Ireland Postgraduate Scholar | Cancer Genomics, Epigenetics & Machine Learning Research @ RCSI (Genomics Oncology Research Group)
+- 🧠 Research Ireland Postgraduate Scholar | Cancer Genomics, Epigenetics & Machine Learning Research @ RCSI (Genomic Oncology Research Group)
 - 🎯 Discover. Decode. Deliver. - Driving Precision Cancer Discovery with Artificial Intelligence and Bioinformatics.
 
 ## ✅ Languages and Frameworks
